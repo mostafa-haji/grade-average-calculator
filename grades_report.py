@@ -48,6 +48,7 @@ def write_grades_to_csv(path,):
 if __name__=="__main__":
     # print(read_grade_from_input())
     print("Hello")
-    path = "C:\\Users\\mostafa\\my_project\\my_first_project\\test.csv"
+    path = "test.csv"
     # print(read_grade_from_CSV(path))
     write_grades_to_csv(path)
+
