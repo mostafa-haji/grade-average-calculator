@@ -19,3 +19,4 @@ It’s a beginner-friendly project that demonstrates working with **CSV files**,
 
 ## 📂 Project Structure
 
+#python #csv #grades #data-analysis #beginner-project
